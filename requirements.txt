@@ -4,7 +4,7 @@ Twisted==15.2.1
 Werkzeug==0.9.6
 cffi==1.1.2
 characteristic==14.3.0
-cryptography==0.9.3
+cryptography==1.4.0
 klein==0.2.3
 pyOpenSSL==0.15.1
 pyasn1==0.1.8
